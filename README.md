@@ -48,8 +48,9 @@ To get your Bearer token:
 
 3. **Paste the token in `token.txt`**:
    
-```nano token.txt```
-
+```bash
+    nano token.txt
+    ```
 Example:
 ```text
 ey...
