@@ -51,13 +51,13 @@ To get your Bearer token:
 ```bash
     nano token.txt
 ```
-###
+#
 Example:
   text
 ey...
 ey...
 ey...
-`
+``
 ### 2. `proxy.txt` (Optional)
 
 Only required if you choose to use proxies when running the script 
