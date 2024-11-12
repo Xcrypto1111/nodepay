@@ -52,11 +52,10 @@ To get your Bearer token:
     nano token.txt
     ```
 Example:
-```text
+  text
 ey...
 ey...
 ey...
-```
 
 ### 2. `proxy.txt` (Optional)
 
