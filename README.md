@@ -21,7 +21,7 @@ This script is intended for running on a server using multyple proxy.
 1. Open the link and log in to [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
 2. Press F12 to open the console and enter the code (Ctrl + Shift + i for inspection)
 3. In the console, enter ``localStorage.getItem('np_token');``
-4. The text printed in the console is your NP_TOKEN copy and paste to `np_token.txt`
+4. The text printed in the console is your NP_TOKEN copy and paste to `np_tokens.txt`
 5. put your proxy in `proxy.txt` file ex: `http://username:pass@ip:port`
 
 ## 1. Steps to Run the Code
