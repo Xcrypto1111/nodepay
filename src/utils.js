@@ -17,8 +17,8 @@ function displayHeader() {
   process.stdout.write('\x1Bc');
   console.log('========================================'.cyan);
   console.log('=          Nodepay Airdrop Bot         ='.cyan);
-  console.log('=         Edited by D4rkCipherX        ='.cyan);
-  console.log('=        https://t.me/D4rkCipherX      ='.cyan);
+  console.log('=         Edited by @Starryyhh        ='.cyan);
+  console.log('=        https://t.me/xcrypto1111      ='.cyan);
   console.log('========================================'.cyan);
   console.log();
 }
