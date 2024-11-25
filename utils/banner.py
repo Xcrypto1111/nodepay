@@ -7,7 +7,7 @@ banner = """
  / ( ) \ | |      | (\ (      ) (   | (         | |   | |   | |
 ( /   \ )| (____/\| ) \ \__   | |   | )         | |   | (___) |
 |/     \|(_______/|/   \__/   \_/   |/          )_(   (_______)
-            Nodepay bot for running with multyple proxy
-            by:t.me/xcrypto1111 - github.com/Xcrypto1111
+          Nodepay bot for running with multyple proxy
+          by:t.me/xcrypto1111 - github.com/Xcrypto1111
                 
 """
